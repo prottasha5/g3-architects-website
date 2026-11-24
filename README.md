@@ -82,4 +82,6 @@ You can easily customize:
 Created as a frontend practice project.
 @Mussharat Monir Prottasha
 
+---it's ok.
+
 
